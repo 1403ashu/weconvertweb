@@ -1,0 +1,132 @@
+.wc-table {  
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+	margin: auto;
+}
+.logo-compressed {
+    height: 80px;
+    width: 150px;
+}
+.logo {
+    height: 100px;
+    width: 163px;
+    margin-right: 45px;
+    margin-top: -1px;
+    padding: 0;
+}
+.navbar-fixed-top {
+    height: 100px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.single-service {
+    display: inline;
+    height: 250px;
+    float: left;
+    margin-bottom: 15px;
+    padding: 45px 20px;
+    position: relative;
+    text-align: left;
+    width: 100%;
+    -w-webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+#solution {
+    background-color: #F6F6F6;
+    display: inline;
+    float: right;
+    padding: 70px 0;
+    width: 100%;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #3c74ba;
+}
+.single-wc-content:hover .wc-icon {
+    background-color: #3c74ba;
+}
+.tittle>span {
+    color: #3c74ba;
+}
+.scrollToTop {
+    color: #3c74ba;
+}
+.single-service {
+    border-bottom: 5px solid #3c74ba;
+}
+.about-left {
+    background-color: #3c74ba;
+}
+.single-wc-content span {
+    border: 1px solid #3c74ba;
+    color: #3c74ba;
+}
+#pricing-table {
+    background-color: #3c74ba;
+    display: inline;
+    float: right;
+    padding: 70px 0;
+    width: 100%;
+}
+.pricing-tittle {
+    color: #ffffff;
+    font-size: 20px;
+    margin-bottom: 0;
+    padding-bottom: 18px;
+}
+.pricing-tittle-price {
+    color: #ffffff;
+    font-size: 40px;
+    margin-bottom: 0;
+    padding-bottom: 18px;
+}
+.knowmore-nav-btn {
+    border: 2px solid #3c74ba;
+    border-radius: 2px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    padding: 25px 28px;
+    -webkit-transition: all 0.5s;
+  }
+.about-right .title-area {
+    text-align: center;
+    padding: 0px;
+}
+.about-right {
+    display: inline;
+    float: none;
+    padding-left: 85px;
+    padding-top: 20px;
+    width: 100%;
+}
+.header-btn-area {
+    margin-top: 45px;
+    float: left;
+    display: inline;
+    width: 100%;
+    text-align: center;
+}
+.knowmore-btn {
+    border: 2px solid #fff;
+    border-radius: 2px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    padding: 27px 113px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
